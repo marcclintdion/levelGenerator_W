@@ -1,0 +1,1 @@
+    glDeleteProgram(hardShinyBumpPlastic_SHADER); 
